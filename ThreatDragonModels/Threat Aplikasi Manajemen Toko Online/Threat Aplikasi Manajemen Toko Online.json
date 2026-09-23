@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "",
+  "summary": {
+    "title": "Threat Aplikasi Manajemen Toko Online",
+    "owner": "Dimar Renanthera Riyadi",
+    "description": "Aplikasi Manajemen Toko Online dengan aktor: Customer (daftar, login, pesan, bayar), Admin (kelola produk), Payment Gateway (Midtrans/Xendit)",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Diagram STRIDE Manajemen Toko Online",
+        "diagramType": "STRIDE",
+        "placeholder": "Deskripsi diagram STRIDE baru",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Data Flow Diagram untuk aplikasi manajemen toko online"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "April Rustianto, M.Kom",
+    "threatTop": 0
+  }
+}
